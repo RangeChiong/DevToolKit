@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 方便开发的一些工具包
                        DESC
 
-  s.homepage         = 'https://github.com/rangechiong/DevToolKit'
+  s.homepage         = 'http://git.centaline.com/centaline-mobile-fundation/DevToolKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'rangechiong' => 'changrz1@centaline.com.cn' }
-  s.source           = { :git => 'https://github.com/rangechiong/DevToolKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'http://git.centaline.com/centaline-mobile-fundation/DevToolKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
